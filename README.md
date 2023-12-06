@@ -1,2 +1,2 @@
-# jbdaking.github.io
-Game website
+## Website for games
+#### by Joseph B
